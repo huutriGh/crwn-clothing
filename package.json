@@ -15,7 +15,8 @@
     "react-scripts": "3.3.0",
     "redex": "^0.0.1",
     "redux": "^4.0.4",
-    "redux-logger": "^3.0.6"
+    "redux-logger": "^3.0.6",
+    "reselect": "^4.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
